@@ -1,0 +1,37 @@
+.nameTest{
+
+    text-align: center;
+
+}
+.Test{
+
+    display: flex;
+    justify-content: center;
+
+}
+.blockquestion{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.blockAnswer{
+
+    display: flex;
+    justify-content: center;
+
+}
+.answer:not(:last-child){
+
+    padding-right: 50px;
+
+}
+.blockAnswerBtn{
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
